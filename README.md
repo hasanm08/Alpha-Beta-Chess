@@ -2,13 +2,14 @@
 Chess game using alpha beta pruning
 <p></p>
 <p></p>
-## collaborators
-https://github.com/hasanm08
-https://github.com/mhalizadeh
+## collaborators <p></p>
+https://github.com/hasanm08 <p></p>
+https://github.com/mhalizadeh <p></p>
 <p></p>
-## how to use
+how to use <p></p>
 clone project and run engine.py   
-## Sample picture
+<p></p>
+ Sample picture
 <p align="center">
   <img  src="sample.png">
 </p>
