@@ -2,7 +2,7 @@
 Chess game using alpha beta pruning
 <p></p>
 <p></p>
-## collaborators <p></p>
+ collaborators <p></p>
 https://github.com/hasanm08 <p></p>
 https://github.com/mhalizadeh <p></p>
 <p></p>
